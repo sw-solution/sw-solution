@@ -28,8 +28,8 @@ Efficient full stack developer with 8+ years of experience in web and blockchain
 ## 📊 GitHub Stats:
 <img src="https://activity-graph.herokuapp.com/graph?username=sw-solution&amp;bg_color=000000&amp;color=00ffff&amp;line=00ffff&amp;point=ffffff&amp;area=true&amp;hide_border=true" data-canonical-src="" style="max-width: 100%;">
 <div>
-<img align="left" style="width: 47%; max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=sw-solution&theme=dark&hide_border=false&include_all_commits=true&count_private=true">
-<img align="right" style="width: 47%; max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sw-solution&theme=dark&hide_border=false">
+<img align="left" style="width: 47%; max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=sw-solution&theme=great-gatsby&hide_border=false&include_all_commits=true&count_private=true">
+<img align="right" style="width: 47%; max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=sw-solution&theme=great-gatsby&hide_border=false">
 </div>
 <br><br><br><br><br><br><br>
 
