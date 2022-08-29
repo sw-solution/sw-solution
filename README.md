@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/sw-solution/sw-solution/raw/master/header.png?raw=true" />
+  <img src="https://github.com/sw-solution/sw-solution/raw/master/header.gif" />
 </p>
 
 ## 💫 About Me:
