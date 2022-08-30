@@ -1,5 +1,5 @@
 <h1 align="center">
-  Professional Web & Blockchain Developer
+  Web & Blockchain Developer
 </h1>
 
 <p align="center">
