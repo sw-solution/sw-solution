@@ -7,7 +7,7 @@
 </p>
 
 ## 💫 About Me:
-I am an efficient full-stack developer with 8+ years of experience in web and blockchain development. My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.
+I am an efficient full-stack developer with 8+ years of experience in web and blockchain development. <br> My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.<br>
 I strive to make today better than yesterday, I value self-development and continuous improvement.
 
 #### Talking about Personal Stuff:<br>
