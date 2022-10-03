@@ -7,8 +7,8 @@
 </p>
 
 ## 💫 About Me:
-I am an efficient full-stack developer with 8+ years of experience in web and blockchain development. <br> My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.<br>
-I strive to make today better than yesterday, I value self-development and continuous improvement.
+Efficient full stack developer with 8+ years of experience in web and blockchain development.<br>My objective is simply to be the best web developer that I can be and to contribute to the technology industry all that I know and can do.<br>Here is what I can:<br>- Participate in the full development life cycle including requirements definition, prototyping, design, coding, analysis, evaluation, testing, and maintenance<br>- Develop and maintain clear, well-written, self-documented code<br>- Develop and maintain automated unit tests<br>- Enhance existing system software to meet evolving business needs<br>- Learn and understand the existing system and collaborate with team members to troubleshoot customer support questions<br>- Demonstrate commitment to providing outstanding internal and external customer service
+<br>- Demonstrate ability to work independently as well as work effectively in a team environment<br>
 
 #### Talking about Personal Stuff:<br>
 👨🏽‍💻 I’m currently working as a freelancer on various freelancing platform<br>👨‍🎓 I strive to make today better than yesterday, I value self-development and continuous improvement.<br>📫 Contact me if you need my help.
