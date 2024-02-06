@@ -17,8 +17,6 @@ Efficient full stack developer with 8+ years of experience in web and blockchain
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/bjzBkZgFMANV" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="40" /></a>
   &nbsp;&nbsp;
-  <a href="https://t.me/sw-solution" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" /></a>
-  &nbsp;&nbsp;
   <a href="https://discord.gg/sw-solution" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="40" /></a>
   &nbsp;&nbsp;
   </div>
