@@ -9,7 +9,7 @@
 ## 💫 About Me: <br>
 Accomplished Full Stack Developer with 8+ years of expertise in web and blockchain development. I am passionate about delivering high-quality solutions and continuously expanding my technical knowledge to stay at the forefront of technology.
 
-####Professional Expertise: <br>
+#### Professional Expertise: <br>
 • Design and implement scalable applications through the complete development lifecycle, from requirements gathering to deployment and maintenance <br>
 • Write clean, efficient, and well-documented code following industry best practices <br>
 • Develop comprehensive automated testing suites to ensure code quality and reliability <br>
@@ -18,12 +18,12 @@ Accomplished Full Stack Developer with 8+ years of expertise in web and blockcha
 • Deliver exceptional service to both internal stakeholders and external clients <br>
 • Excel both independently and as a collaborative team member <br>
 
-####Current Focus: <br>
+#### Current Focus: <br>
 👨🏽‍💻 Working as a freelance developer across multiple platforms, delivering custom solutions for diverse clients <br>
 👨‍🎓 Committed to continuous learning and professional growth, constantly exploring new technologies and methodologies <br>
 🤝 Open to new opportunities and collaborations <br>
 
-####Let's Connect: <br>
+#### Let's Connect: <br>
 📫 Available for consulting, project collaboration, or full-time opportunities <br>
 🌐 Portfolio and work samples available upon request <br>
 
